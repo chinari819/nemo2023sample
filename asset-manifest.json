@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/nemo2023sample/static/css/main.4d034836.css",
-    "main.js": "/nemo2023sample/static/js/main.bf5b477a.js",
+    "main.js": "/nemo2023sample/static/js/main.9abb8878.js",
     "static/js/787.d1899b68.chunk.js": "/nemo2023sample/static/js/787.d1899b68.chunk.js",
-    "static/media/残機.png": "/nemo2023sample/static/media/残機.38c76363714ae1618c60.png",
+    "static/media/zanki.png": "/nemo2023sample/static/media/zanki.38c76363714ae1618c60.png",
     "index.html": "/nemo2023sample/index.html",
     "main.4d034836.css.map": "/nemo2023sample/static/css/main.4d034836.css.map",
-    "main.bf5b477a.js.map": "/nemo2023sample/static/js/main.bf5b477a.js.map",
+    "main.9abb8878.js.map": "/nemo2023sample/static/js/main.9abb8878.js.map",
     "787.d1899b68.chunk.js.map": "/nemo2023sample/static/js/787.d1899b68.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4d034836.css",
-    "static/js/main.bf5b477a.js"
+    "static/js/main.9abb8878.js"
   ]
 }
